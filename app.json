@@ -1,0 +1,15 @@
+{
+  "name": "ridepooling-app-fresh",
+  "slug": "ridepooling-app-fresh",
+  "android": {
+    "package": "com.kimoney.ridepoolingappfresh"
+  },
+  "ios": {
+    "bundleIdentifier": "com.kimoney.ridepoolingappfresh"
+  },
+  "plugins": [
+    "expo-router",
+    "expo-font",
+    "expo-web-browser"
+  ]
+}
